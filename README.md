@@ -12,7 +12,7 @@ npm install ldr
 
 ## Definition
 
-_ldr_ is a simple task loader for Node and nothing else. Add _tasks_ with `add(Function)` and call `go()` when you are ready. Tasks will execute in the sequence in which they were added, without blocking.
+_ldr_ is a simple task loader for Node. Add _tasks_ with `add(Function)` and call `go()` when you are ready. Tasks will execute in the sequence in which they were added, without blocking.
 
 Each task will delay execution of the next task until those operations have completed. The end result is non-blocking code in each task, but no two tasks running simultaneously.
 
