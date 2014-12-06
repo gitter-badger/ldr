@@ -83,6 +83,6 @@ loader.on('done', function(data) {
 ## License
 ![][MIT]
 
-[MIT]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[MIT]: http://img.shields.io/badge/license-MIT-green.svg?style=flat-square
 [TravisLogo]: https://travis-ci.org/bucaran/ldr.svg?branch=master
 [Travis]: https://travis-ci.org/bucaran/ldr
