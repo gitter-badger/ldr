@@ -1,5 +1,7 @@
 # _ldr_ Loader
 
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bucaran/ldr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Sequential task loader for Node.
 
 [![Build Status][TravisLogo]][Travis]
